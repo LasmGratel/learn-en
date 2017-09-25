@@ -2,7 +2,7 @@
 
 更新时间：2017-09-23
 简单词语 | 复杂词语 | 中文翻译
---- | --- | --- | ---
+--- | --- | ---
 countryside | rural | 乡村
 old | ancient | 古代的
 special | picturesque, unique | 独特的

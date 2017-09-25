@@ -2,7 +2,7 @@
 
 更新时间：2017-09-23
 简单词语 | 复杂词语 | 中文翻译
---- | --- | --- | ---
+--- | --- | ---
 understand | perceive | 理解
 collect | generalize | 汇总
 special | characteristic | 独特的
